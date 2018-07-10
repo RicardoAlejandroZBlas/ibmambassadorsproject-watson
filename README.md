@@ -12,4 +12,5 @@ A continuación anexo imágenes del chatbot mientras en el IBM Watson Assistant,
 <img alt="Prueba1" src="https://github.com/RicardoAlejandroZBlas/ibmambassadorsproject-watson/blob/master/Sources/IMG%204.png" />
 <img alt="Prueba1" src="https://github.com/RicardoAlejandroZBlas/ibmambassadorsproject-watson/blob/master/Sources/IMG%205.png" />
 <img alt="Prueba1" src="https://github.com/RicardoAlejandroZBlas/ibmambassadorsproject-watson/blob/master/Sources/IMG%206.png" />
+<
 //En este ultimo se presenta un error por que no se aceptaba el signo de '$'
